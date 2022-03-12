@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.o"
+  "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.o.d"
   "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/main.cpp.o"
   "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/main.cpp.o.d"
   "ee205_lab08c_all_creatures_great_and_small"

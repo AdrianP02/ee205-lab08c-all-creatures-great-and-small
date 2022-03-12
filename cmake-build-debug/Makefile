@@ -129,6 +129,30 @@ ee205_lab08c_all_creatures_great_and_small/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/build.make CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/build
 .PHONY : ee205_lab08c_all_creatures_great_and_small/fast
 
+Animal.o: Animal.cpp.o
+.PHONY : Animal.o
+
+# target to build an object file
+Animal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/build.make CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.o
+.PHONY : Animal.cpp.o
+
+Animal.i: Animal.cpp.i
+.PHONY : Animal.i
+
+# target to preprocess a source file
+Animal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/build.make CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.i
+.PHONY : Animal.cpp.i
+
+Animal.s: Animal.cpp.s
+.PHONY : Animal.s
+
+# target to generate assembly for a file
+Animal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/build.make CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.s
+.PHONY : Animal.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ee205_lab08c_all_creatures_great_and_small"
+	@echo "... Animal.o"
+	@echo "... Animal.i"
+	@echo "... Animal.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

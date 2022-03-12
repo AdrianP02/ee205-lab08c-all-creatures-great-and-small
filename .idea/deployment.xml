@@ -7,6 +7,9 @@
           <mappings>
             <mapping deploy="/tmp/tmp.iqlhBJ4cGK" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
         </serverdata>
       </paths>
       <paths name="Wiliki (c4dff3f6-d73e-4bb2-ad21-6b4baa7d6eda)">

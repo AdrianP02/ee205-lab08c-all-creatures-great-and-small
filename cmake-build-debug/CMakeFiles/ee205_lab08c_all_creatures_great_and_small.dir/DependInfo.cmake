@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/tmp/tmp.iqlhBJ4cGK/Animal.cpp" "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.o" "gcc" "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/Animal.cpp.o.d"
   "/tmp/tmp.iqlhBJ4cGK/main.cpp" "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/main.cpp.o" "gcc" "CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir/main.cpp.o.d"
   )
 

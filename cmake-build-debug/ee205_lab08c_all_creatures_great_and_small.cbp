@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/tmp/tmp.iqlhBJ4cGK/Animal.cpp">
+			<Option target="ee205_lab08c_all_creatures_great_and_small"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.iqlhBJ4cGK/Animal.h">
+			<Option target="ee205_lab08c_all_creatures_great_and_small"/>
+		</Unit>
 		<Unit filename="/tmp/tmp.iqlhBJ4cGK/main.cpp">
 			<Option target="ee205_lab08c_all_creatures_great_and_small"/>
 		</Unit>
