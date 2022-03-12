@@ -8,7 +8,6 @@
 /// @author Adrian Peng <apeng2@hawaii.edu>
 /// @date   11_Mar_2022
 ///////////////////////////////////////////////////////////////////////////////
-#include <iostream>
 #include "Animal.h"
 
 int main() {
